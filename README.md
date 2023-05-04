@@ -1,3 +1,3 @@
-# sqlite_example
+# Police Ticket Recorder
 
 A new Flutter project.
